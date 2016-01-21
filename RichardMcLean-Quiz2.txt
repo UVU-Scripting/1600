@@ -1,0 +1,55 @@
+﻿Richard McLean
+
+
+1 —What are two types of comments? (Show Examples)
+
+
+//This is a single Line comment
+
+
+/*This
+is
+a
+multi
+line
+comment*/
+
+
+2 —What does a semicolon do?
+
+
+terminates a statement;
+
+
+3 —What does a period do?
+
+
+drills down into 
+
+
+4 —What is syntax? (Give two examples)
+
+
+Grammer for code i.e.         {function instructions}
+                                        (call a variable, etc.)
+
+
+5 —What is the template/structure of a function that returns something?
+
+
+type functionName()
+{
+}
+
+
+6 —List two examples of functions that do not return something.
+
+
+void Start()
+void Update()
+
+
+7 —Give me an example of printing a string.
+
+
+Debug.Log (“your string here”);

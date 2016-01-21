@@ -1,0 +1,14 @@
+DGM 1600
+Professor Marty
+
+1.	What is a variable?
+  a.	A variable is used to store a certain type of value. The value can be changed later, but the type can’t. 
+    i.	1 can be changed to 2, but not to an ‘a’.
+2.	Describe declaration and initialization.
+  a.	Declaration: declaring the name of the variable and its type.
+  b.	Initialization: setting an initial value to the variable.
+3.	Example of 2.
+  a.	Declaration: 		int the_Value;
+  b.	Initialization: 		the_Value = 0;
+4.	Two types of variables.
+  a.	int, double.

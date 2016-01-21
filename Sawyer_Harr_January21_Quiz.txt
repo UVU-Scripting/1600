@@ -1,0 +1,39 @@
+Sawyer Harr
+January 21 Quiz
+
+What are two types of comments? Show examples.
+There are single and multiple line comments.
+//This line is just to be read.
+/*These line are meant just
+to be read*/
+
+What does a semicolon do?
+It basically brings a statement to an end.
+int x = 5;
+
+What does a period do?
+It goes further into a subset of instructions.
+Debug.Log (“Hello Professor”);
+
+What is syntax? Give two examples.
+Syntax is the order and manner in which script must exist to function correctly.
+For example, Debug Log (“Fail”); won’t work because you are missing a period. As a result
+the program doesn’t know what to do with it.
+Another example is Debug.Log (“Fail Again”)
+You are missing a semicolon, so there is no dice there.
+
+What is the template of a function that returns something?
+int x = 5;
+float y = 5f;
+etc.
+
+List two examples of function that do NOT return something.
+void Start {    }
+void Update {    }
+
+Give an example of how to print out a string.
+string x = “This is my string, but it’s not good for BoyScouts”;
+// I can’t remember if that is how you properly define a string… I think it is.
+Debug.Log (string x);
+or
+Debug.Log (“Direct String”);

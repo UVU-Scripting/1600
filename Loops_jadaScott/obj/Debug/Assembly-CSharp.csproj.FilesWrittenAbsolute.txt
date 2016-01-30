@@ -1,0 +1,17 @@
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/jadascott1/Loops_jadaScott/obj/Debug/Assembly-CSharp.dll
+/Users/jadascott1/Loops_jadaScott/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/UnityEngine.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/UnityEditor.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jadascott1/Loops_jadaScott/Temp/bin/Debug/Mono.Cecil.Mdb.dll

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LoopsAssignment_jadaScott.unity
+  isLoaded: 1
+  isActive: 1

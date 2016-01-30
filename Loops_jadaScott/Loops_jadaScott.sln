@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{22B5F763-5F62-4BFE-C566-2FFF1C2F30A1}") = "Loops_jadaScott", "Assembly-CSharp.csproj", "{B02D3486-21FF-3459-E692-60BDC249E38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B02D3486-21FF-3459-E692-60BDC249E38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02D3486-21FF-3459-E692-60BDC249E38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02D3486-21FF-3459-E692-60BDC249E38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02D3486-21FF-3459-E692-60BDC249E38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

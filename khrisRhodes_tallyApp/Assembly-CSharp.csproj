@@ -46,8 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\improvedTallyCounter.cs" />
-     <Compile Include="Assets\Scripts\tallyCounter.cs" />
+     <Compile Include="Assets\Scripts\phaseOne\improvedTallyCounter.cs" />
+     <Compile Include="Assets\Scripts\phaseOne\tallyCounter.cs" />
+     <Compile Include="Assets\Scripts\phaseTwo\tallyCounterScript.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>

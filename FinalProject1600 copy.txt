@@ -1,0 +1,4 @@
+Final Project
+Carlton Baxter
+
+I changed the color of the character to be blue, a laser beam with a right click of the mouse or alt button, droppable coins that add fifty points to the high score, a double jump, and a health power up that spawns every thirty seconds in the area the player spawns in.
